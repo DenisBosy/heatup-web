@@ -173,4 +173,6 @@ export default function EnergyStep({ data, building, onChange }) {
           </Field>
         </div>
       </div>
-    </d
+    </div>
+  )
+}
